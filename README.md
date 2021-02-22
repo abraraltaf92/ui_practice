@@ -1,9 +1,9 @@
 # Practing some cool UI
 
-## Original Version from Figma:-
 
-![](ss/originalVersion.png)
 
-## My version
 
-![](ss/myVersion.png)
+
+| Orginal Version (Figma)     | My Version     | 
+|------------|-------------| 
+|  <img src = "ss/originalVersion.png" width = "300" height = "600" > |  <img src = "ss/myVersion.png" width = "350" height = "650" >  |
